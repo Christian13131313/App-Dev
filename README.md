@@ -7,4 +7,3 @@ My first repository.
 1. Black Panther
 2. Black Adam
 3. The Adam Project
-
